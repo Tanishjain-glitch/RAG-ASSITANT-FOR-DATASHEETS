@@ -1,0 +1,14 @@
+# Ignore environment folder
+langchain_env/
+
+# Ignore python cache
+__pycache__/
+
+# Ignore environment variables
+.env
+
+# Ignore data folders/files (optional, add if these are generated or large)
+chunks*
+db/
+sessions/
+vectorstore/
